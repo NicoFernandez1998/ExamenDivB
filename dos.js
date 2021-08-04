@@ -1,5 +1,4 @@
 function mostrar() {
-  
   let nacionalidad;
   let resultado;
   let edad;

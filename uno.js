@@ -1,5 +1,4 @@
 function mostrar() {
-  
   let nombre;
   let edad;
   let vacuna;
@@ -84,8 +83,8 @@ function mostrar() {
     contVacunados++;
 
     seguir = prompt("Desea ingresar otro vacunado: s/n").toLocaleLowerCase();
-  } while (seguir == "s"); 
-  
+  } while (seguir == "s");
+
   // *******************FIN DEL BUCLE*********************
 
   promedioRusa = acumEdadRusa / contRusa;

@@ -1,5 +1,4 @@
 function mostrar() {
-  
   let origen;
   let cantidad;
   let costo;
